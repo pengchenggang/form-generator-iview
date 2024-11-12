@@ -16,8 +16,9 @@ function resolve(dir) {
 }
 
 module.exports = {
+  outputDir: 'docs',
   publicPath: process.env.NODE_ENV === 'production'
-    ? '/form-generator/'
+    ? '/form-generator-iview/'
     : '/',
   pages: {
     index: {
