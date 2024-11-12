@@ -10,3 +10,4 @@ https://jakhuang.github.io/form-generator/#/
 ## 开发步骤
 
 - vue-cli-service 创建项目 `vue create form-generator-iview`
+- 取消从头搭架子的过程，直接改为二次开发
